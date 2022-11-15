@@ -1,4 +1,23 @@
-{
-   "name":"earth",      
-   "image-url":"https://cdn.mos.cms.futurecdn.net/yCPyoZDQBBcXikqxkeW2jJ-1200-80.jpg"
-}
+[
+    {
+      "name":"earth",      
+      "image-url":"https://cdn.mos.cms.futurecdn.net/yCPyoZDQBBcXikqxkeW2jJ-1200-80.jpg"
+    },
+    {
+      "name":"mars",
+      "image-url":"https://space-facts.com/wp-content/uploads/mars-v2.jpg"
+    },
+    {
+      "name":"mercury",
+      "image-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/800px-Mercury_in_true_color.jpg"
+    },
+    {
+      "name":"venera",
+      "image-url":"https://images.allthescience.org/slideshow-mobile-small/view-of-venus-against-black.jpg"
+    },
+    {
+      "name":"Jupiter",
+      "image-url":"https://cdn.britannica.com/66/155966-131-17B5B518/Jupiter.jpg"
+    }
+    
+  ]
